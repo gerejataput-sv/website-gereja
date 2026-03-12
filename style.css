@@ -44,7 +44,7 @@ font-weight:500;
 
 .hero{
 height:500px;
-background:url(Pictures/Gereja.jpg/);
+background:url(Pictures/Gereja.jpg);
 background-size:cover;
 display:flex;
 align-items:center;
